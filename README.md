@@ -1,4 +1,4 @@
-# CMM2-ExoansionCard-ProtoSimple
+# CMM2-ExpansionCard-ProtoSimple
  
 <img src="Images/proto_card.png" width="400">
 
